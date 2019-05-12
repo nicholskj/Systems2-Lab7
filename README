@@ -1,0 +1,4 @@
+For this lab I created a proxy that as a middleman between a web browser and an origin server.
+
+I wrote a simple HTTP proxy that also caches webobjects. 
+

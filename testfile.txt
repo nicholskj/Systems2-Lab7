@@ -1,0 +1,11 @@
+curl -v --proxy http://localhost:1234 http://localhost:4321/home.html
+curl -v --proxy http://localhost:1234 http://localhost:4321/godzilla.jpg
+curl -v --proxy http://localhost:1234 http://localhost:4321/csapp.h
+curl -v --proxy http://localhost:1234 http://localhost:4321/whatIDo.png
+curl -v --proxy http://localhost:1234 http://localhost:4321/tiny.c
+curl -v --proxy http://localhost:1234 http://localhost:4321/home.html
+curl -v --proxy http://localhost:1234 http://localhost:4321/godzilla.jpg
+curl -v --proxy http://localhost:1234 http://localhost:4321/csapp.h
+curl -v --proxy http://localhost:1234 http://localhost:4321/whatIDo.png
+curl -v --proxy http://localhost:1234 http://localhost:4321/tiny.c
+
